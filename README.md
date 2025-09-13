@@ -16,7 +16,7 @@ AI-Robot-System
 ## Intro
 
 Mission: 
-We have a robot, which have motors , we have to make it walk. 
+We have a robot, which has motors, we have to make it walk. 
 
 
 Rough Sketch of the Project:
