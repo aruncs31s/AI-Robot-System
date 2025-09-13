@@ -25,7 +25,7 @@ Rough Sketch of the Project:
 I will update this image ASAP, currently no time.
 
 What we have : 
-1. 17 Servo , Humanod Robot
+1. 17 Servo , Humanoid Robot
 2. Raspberry Pi 5
 3. Pi Cam   
 4. Lidar 
