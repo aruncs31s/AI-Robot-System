@@ -22,7 +22,7 @@ We have a robot, which has motors, we have to make it walk.
 Rough Sketch of the Project:
 ![alt text](image.png)
 
-i will update this image ASAP , currently no time.
+I will update this image ASAP, currently no time.
 
 What we have : 
 1. 17 Servo , Humanod Robot
