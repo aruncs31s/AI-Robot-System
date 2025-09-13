@@ -170,6 +170,6 @@ Nill : 1
 ✅ -> Currently Done any Contribution 
 ❌ -> Currently Has not done any Contribution
 
-### How o join a team?
+### How to join a team?
 1. Go to the open the whatsapp link and join the group.
 2. Done
