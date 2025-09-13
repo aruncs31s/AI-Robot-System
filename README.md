@@ -31,7 +31,7 @@ What we have :
 4. Lidar 
 5. PCA9685
 etc . etc
-So we have the hardware to make it . Its only a matter of putting thing to gether. 
+So we have the hardware to make it. It's only a matter of putting things together.
 
 ## Addons 
 ### AI-Assistant
